@@ -41,6 +41,7 @@ a.ex2{
 img.ex5{
    margin-top: 0px;
    border-radius: 20px;
+   height="240px"
    width="1296px"
 }
 a.ex6{
@@ -108,6 +109,9 @@ h1.ex15{
 }
 div.ex22{
     background-color: hsl(0, 0%, 82%);
+    position: relative;
+    bottom: 300px;
+    left:100px;
    
     width: 20%;
     height: 80%;
@@ -221,3 +225,4 @@ html {
   .button:hover {
     background-color: #555;
   }
+  
